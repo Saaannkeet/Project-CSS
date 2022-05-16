@@ -1,0 +1,275 @@
+.container {
+    position: relative;
+    width: fit-content;
+}
+
+.line1 {
+    position: absolute;
+    left: 250px;
+    width: 38%;
+}
+
+.line2 {
+    position: absolute;
+    width: 55%;
+    left: 105px;
+}
+
+.line3 {
+    position: absolute;
+    width: 55%;
+}
+
+.line4 {
+    width: 23%;
+    position: absolute;
+
+}
+
+.main {
+    margin-top: 80px;
+}
+
+.top {
+
+    margin-left: 350px;
+    font-size: 40px;
+    margin-bottom: 50;
+}
+
+.top1 {
+    margin-left: 10px;
+    font-size: 35px;
+
+
+}
+
+.file {
+    margin-top: 140px;
+    margin-bottom: -30px;
+    margin-left: -120px;
+}
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+
+
+
+
+
+.no1 {
+
+    border: solid 2px orangered;
+    width: fit-content;
+    height: 200px;
+    padding: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 5px rgb(38, 38, 38);
+    margin-left: 200px;
+    margin-top: 30px;
+
+}
+
+
+
+
+.no2 {
+    border: solid 2px orangered;
+    width: fit-content;
+    height: 200px;
+
+    padding: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 5px rgb(38, 38, 38);
+    margin-top: 30px;
+
+
+}
+
+.text1 {
+    color: orangered;
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.text2 {
+    color: orangered;
+    font-size: larger;
+
+}
+
+.no3 {
+
+    border: solid 2px orangered;
+    width: fit-content;
+    height: 200px;
+
+    padding: 50px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    margin: 50px;
+    box-shadow: 5px 5px 5px rgb(38, 38, 38);
+    margin-top: 30px;
+
+}
+
+.material-icons {
+    background-color: orangered;
+    color: white;
+    border-radius: 50%;
+
+
+
+}
+
+
+
+
+
+
+.class {
+    margin-left: 1050px;
+    margin-bottom: -30px;
+}
+
+
+.add {
+    font-size: 25px;
+}
+
+
+.paris {
+
+    border: solid 2px orangered;
+    width: fit-content;
+    height: 200px;
+    padding: 50px;
+    border-radius: 20px;
+
+    margin: 50px;
+    box-shadow: 5px 5px 5px rgb(38, 38, 38);
+    margin-left: 500px;
+    margin-top: 10px;
+
+}
+
+.trip1 {
+    color: orangered;
+    font-size: 25px;
+    margin-top: -10px;
+}
+
+.trip2 {
+    color: orangered;
+    font-size: larger;
+
+}
+
+.trip {
+    margin-left: 400px;
+    margin-top: 150px;
+}
+
+.link {
+    color: orangered;
+    text-decoration: none;
+}
+
+.back {
+    font-size: 20px;
+    margin-left: 5px;
+
+}
+
+.arrow {
+    margin-left: 580px;
+
+}
+
+.left {
+    margin-left: 110px;
+}
+
+.background{
+    
+    
+   background-position: center center;
+   background-repeat: no-repeat;
+   filter: blur(3px);
+  background-attachment: fixed;
+}
+
+
+
+
+
+
+
+.new {
+
+    border: solid 2px orangered;
+    width: 200px;
+    height: fit-content;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -330px;
+    margin-left: 560px;
+    
+}
+
+.list {
+    text-align: center;
+    color: orangered;
+    font-size: larger;
+
+}
+
+.border {
+    border-color: style;
+}
+
+
+.box {
+    width: 200px;
+    height: 30px;
+    border: solid 2px orangered;
+    border-radius: 5px;
+    box-shadow: 1px 1px 5px black;
+}
+
+.button {
+    background-color: orangered;
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: larger;
+    margin-left: 70px;
+    width: 70px;
+    height: 30px;
+    border-color: orangered;
+}
+
+.new1{
+
+    border: solid 2px orangered;
+    width: 200px;
+    height: fit-content;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: -330px;
+    margin-left: 470px;
+    
+}
